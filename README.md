@@ -1,0 +1,1 @@
+My first discord bot wrote in Rust that includes sending some formatted messages.
